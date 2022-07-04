@@ -6,7 +6,7 @@ Hello there! 👋🏼
 - 👩🏻‍🦱 Pronouns: Ela / She
 - 🌎 Plus? I'm always learning something new... 🕊️
 
-<div>
+<div align="center">
 
   <a href="https://github.com/brunasdev">
   
