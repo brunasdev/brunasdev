@@ -1,4 +1,4 @@
-## Hello there! 👋🏼 I am Bruna, how are you?
+## Hello there! 👋🏼 how are you?
 
 - 👩🏻‍💻 I’m currently working on Android Developer
 - 📚 and I’m also learning Kotlin 🥳
@@ -33,6 +33,7 @@
   ##
  
 <div> 
-    <a href="https://www.linkedin.com/in/brsnasilvac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brsnasilvac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://tumblr.com" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
