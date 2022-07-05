@@ -9,8 +9,8 @@
 
   <a href="https://github.com/brunasdev">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasdev&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasdev&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
@@ -26,6 +26,6 @@
   
 <img align="center" alt="Bruna-IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/4ab56ce637b0155994cd064d898418eacbb005bb/SVG%20Archives/5-%20IntelliJ%20IDEA%20-%20Icon.svg" />
   
-<img align="right" alt="Bruna-gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/brunasdev/brunasdev/main/Archives/Personal/Hi%2C%20it's%20me!.gif">
+<img align="right" alt="Bruna-gif" src="https://raw.githubusercontent.com/brunasdev/brunasdev/main/Archives/Personal/Hi%2C%20it's%20me!.gif">
   
 </div>
