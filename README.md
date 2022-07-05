@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I’m currently working on Android Developer
 - 📚 and I’m also learning Kotlin 🥳
-- 👩🏻‍🦱 Pronouns: Ela / She
+- 👩🏻‍🦱 Pronouns: She / Her
 - 🌎 Plus, I'm always learning something new. 🕊️
 
 <div align="center">
