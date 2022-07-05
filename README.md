@@ -1,4 +1,4 @@
-Hello there! 👋🏼
+Hello there! 👋🏼 how are you?
 
 - 👩🏻‍💻 I’m currently working on Mobile Developer
 - 📚 and I’m also learning Kotlin 🥳
