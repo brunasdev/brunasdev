@@ -29,3 +29,11 @@
 <img align="right" alt="Bruna-gif" src="https://raw.githubusercontent.com/brunasdev/brunasdev/main/Archives/Personal/Hi%2C%20it's%20me!.gif">
   
 </div>
+  
+  ##
+ 
+<div> 
+    <a href="https://www.linkedin.com/in/brsnasilvac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="https://instagram.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
