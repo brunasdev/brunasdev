@@ -26,6 +26,6 @@
   
 <img align="center" alt="Bruna-IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/4ab56ce637b0155994cd064d898418eacbb005bb/SVG%20Archives/5-%20IntelliJ%20IDEA%20-%20Icon.svg" />
   
-<img align="right" alt="Bruna-gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/brunasdev/brunasdev/main/Archives/Personal/Hi%2C%20it's%20me!.gif?width=676&height=676">
+<img align="right" alt="Bruna-gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/brunasdev/brunasdev/main/Archives/Personal/Hi%2C%20it's%20me!.gif">
   
 </div>
