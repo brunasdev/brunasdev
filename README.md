@@ -8,8 +8,8 @@
 
   <a href="https://github.com/brunasdev">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasdev&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brunasdev&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasdev&layout=compact&langs_count=7&theme=vue"/>
 
 </div>
 
@@ -23,7 +23,7 @@
   </div>
   
   
-  ## You can find me here:
+  ## You can find me here 👇🏼
  
   
 <div> 
@@ -31,7 +31,7 @@
   <a href="https://instagram.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <div> 
   
-  ## And also in my other acc:
+  ## And also in my old account 👇🏼
   
   <a href="https://github.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
