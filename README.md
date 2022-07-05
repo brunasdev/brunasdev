@@ -25,7 +25,7 @@
 <img align="center" alt="Bruna-Android Studio" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/4ab56ce637b0155994cd064d898418eacbb005bb/SVG%20Archives/4-%20Android%20Studio%20-%20Logo.svg" />
   
 <img align="center" alt="Bruna-IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/4ab56ce637b0155994cd064d898418eacbb005bb/SVG%20Archives/5-%20IntelliJ%20IDEA%20-%20Icon.svg" />
-  
+
 <img align="right" alt="Bruna-gif" src="https://raw.githubusercontent.com/brunasdev/brunasdev/main/Archives/Personal/Hi%2C%20it's%20me!.gif">
   
 </div>
@@ -34,6 +34,5 @@
  
 <div> 
     <a href="https://www.linkedin.com/in/brsnasilvac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
   <a href="https://instagram.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
