@@ -1,7 +1,7 @@
-## Hello there! 👋🏼 how are you?
+## Hello there! 👋🏼 how are you? 
 
-- 👩🏻‍💻 I’m currently working on Android Developer
-- 👩🏻‍🦱 Pronouns: She / Her
+- 👩🏻‍💻 I’m a Mobile Developer and it's nice to meet ya!
+- 👩🏻‍🦱 My pronouns are: She / Her
 - 🌎 Plus, I'm always learning something new 📚
 
 <div align="center">
@@ -23,13 +23,16 @@
   </div>
   
   
-  ## And you can find me here too:
+  ## You can find me here:
  
   
 <div> 
   <a href="https://www.linkedin.com/in/brsnasilvac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- 𝗼𝗿
+<div> 
+  
+  ## And also in my other acc:
+  
   <a href="https://github.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/brunasdev/brunasdev/blob/output/github-contribution-grid-snake.svg)
