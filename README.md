@@ -16,10 +16,14 @@ Hello there! 👋🏼
 
 <div style="display: inline_block"><br>
   
-<img align="center" alt="Bruna-KT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-<img align="center" alt="Bruna-AD" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="center" alt="Bruna-CV" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="center" alt="Bruna-AS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="center" alt="Bruna-IJ" height="40" width="50" src="https://drive.google.com/file/d/1ZwOsM0dsuPyl7m8zZleOgAnyCEiUyNh0/view?usp=sharing" />
+<img align="center" alt="Bruna-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/92713f3215a79c87deff62efbaa429ccd1a29442/SVG%20Archives/1-%20Kotlin.svg" />
+  
+<img align="center" alt="Bruna-Android" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/92713f3215a79c87deff62efbaa429ccd1a29442/SVG%20Archives/2-%20Android%20Robot.svg" />
+  
+<img align="center" alt="Bruna-Canva" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/92713f3215a79c87deff62efbaa429ccd1a29442/SVG%20Archives/3-%20Canva.svg" />
+  
+<img align="center" alt="Bruna-Android Studio" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/92713f3215a79c87deff62efbaa429ccd1a29442/SVG%20Archives/4-%20Android%20Studio%20-%20Logo.svg" />
+  
+<img align="center" alt="Bruna-IJ" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/92713f3215a79c87deff62efbaa429ccd1a29442/SVG%20Archives/5-%20IntelliJ%20IDEA%20-%20Icon.svg" />
             
 </div>
