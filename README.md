@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I’m currently working on Android Developer
 - 📚 and I’m also learning Kotlin 🥳
 - 👩🏻‍🦱 Pronouns: Ela / She
-- 🌎 Plus? I'm always learning something new... 🕊️
+- 🌎 Plus, I'm always learning something new... 🕊️
 
 <div align="center">
 
