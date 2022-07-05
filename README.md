@@ -1,6 +1,6 @@
-Hello there! 👋🏼 how are you?
+## Hello there! 👋🏼 I am Bruna, how are you?
 
-- 👩🏻‍💻 I’m currently working on Mobile Developer
+- 👩🏻‍💻 I’m currently working on Android Developer
 - 📚 and I’m also learning Kotlin 🥳
 - 👩🏻‍🦱 Pronouns: Ela / She
 - 🌎 Plus? I'm always learning something new... 🕊️
